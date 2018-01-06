@@ -8,7 +8,7 @@ Our goal is to begin making revolutionary apps as quickly as possible, and keepi
 
 ### Reading javascript
 
-You need to look at a lot of exmple code when you learn to program, which is only possible when you know how to read it. We'll simply learn how to spot a "function", "string" or "array" here. Nothing fancy. The goal is we can loosely understand the code we read, even if we can't write it yet. Then we'll meet JSON (JavaScript Object Notation ;)).
+You need to look at a lot of example code when you learn to program, which is only possible when you know how to read it. We'll simply learn how to spot a "function", "string" or "array" here. Nothing fancy. The goal is we can loosely understand the code we read, even if we can't write it yet. Then we'll meet JSON (JavaScript Object Notation ;)).
 
 ### REST (APIs, how we talk to the Internet)
 
